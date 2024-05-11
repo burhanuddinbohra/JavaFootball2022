@@ -11,7 +11,7 @@ git clone https://github.com/burhanuddinbohra/JavaFootball2022.git
 
 ### Running the Program
 
-JavaFootball2022 is based on Java SE 18. To run the program, navigate to the cloned directory and execute the following command:
+JavaFootball2022 is based on Java SE 18. To run the program,on cmd navigate to the cloned directory and then into the src folder and execute the following command:
 javac Run.java
 
 Then, you can run the program using the following command:
